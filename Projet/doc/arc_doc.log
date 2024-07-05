@@ -1,0 +1,235 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.12.14)  7 JAN 2024 16:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**doc/arc_doc.tex
+(./doc/arc_doc.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+
+! LaTeX Error: File `fullpage.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: ^^[da
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.5 \usepackage
+               {hyperref}
+? 
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.5 \usepackage
+               {hyperref}
+? 
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.5 \usepackage
+               {hyperref}
+? 
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.5 \usepackage
+               {hyperref}
+? 
+! Argument of \DeclareUnicodeCharacter has an extra }.
+<inserted text> 
+                \par 
+l.5 \usepackage
+               {hyperref}
+? 
+Runaway argument?
+! Paragraph ended before \DeclareUnicodeCharacter was complete.
+<to be read again> 
+                   \par 
+l.5 \usepackage
+               {hyperref}
+? 
+! Argument of \DeclareUnicodeCharacter has an extra }.
+<inserted text> 
+                \par 
+l.5 \usepackage
+               {hyperref}
+? Q
+OK, entering \batchmode...
+Runaway argument?
+! Paragraph ended before \DeclareUnicodeCharacter was complete.
+<to be read again> 
+                   \par 
+l.5 \usepackage
+               {hyperref}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+{\protect \begingroup \immediate \write \@unused   \def \MessageBreak \ETC.
+! Paragraph ended before \set@curr@file was complete.
+<to be read again> 
+                   \par 
+l.5 \usepackage
+               {hyperref}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+<argument> ... definition with\MessageBreak \par  
+                                                   \errhelp \let \def \Messa...
+l.5 \usepackage
+               {hyperref}
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Too many }'s.
+<argument> ...definition with\MessageBreak \par   
+                                                  \errhelp \let \def \Messag...
+l.5 \usepackage
+               {hyperref}
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Missing { inserted.
+<to be read again> 
+                   \let 
+l.5 \usepackage
+               {hyperref}
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+Runaway argument?
+{\protect \begingroup \immediate \write \@unused   \def \MessageBreak \ETC.
+! Paragraph ended before \@missingfileerror was complete.
+<to be read again> 
+                   \par 
+l.5 \usepackage
+               {hyperref}
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\reserved@a ...definition with\MessageBreak \par  
+                                                   \errhelp \let \def \Messa...
+l.5 \usepackage
+               {hyperref}
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Too many }'s.
+\reserved@a ...efinition with\MessageBreak \par   
+                                                  \errhelp \let \def \Messag...
+l.5 \usepackage
+               {hyperref}
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Missing { inserted.
+<to be read again> 
+                   \let 
+l.5 \usepackage
+               {hyperref}
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \usepackage
+               {hyperref}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+
+! LaTeX Error: File `pdftexcmds.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+ Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.108 \RequirePackage{pdftexcmds}[2009/04/10]
+                                             ^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 851 strings out of 483183
+ 11264 string characters out of 5966291
+ 238767 words of memory out of 5000000
+ 15921 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 30i,0n,25p,209b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
